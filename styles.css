@@ -146,3 +146,31 @@ ul {
     width: 145px;
     padding: 5px;
 }
+
+.quote-section {
+    display: flex;
+    flex-direction: column;
+    height: 36vh;
+    background-color: #e5e7eb;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-container {
+    padding: 5px;
+    max-width: 850px;
+}
+
+.main-quote {
+    font-size: 38px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.quote-author {
+    font-weight: 800;
+    display: flex;
+    justify-content: right;
+    padding: 5px 25px;
+}
