@@ -174,3 +174,31 @@ ul {
     justify-content: right;
     padding: 5px 25px;
 }
+
+.cta-section {
+    display: flex;
+    height: 30vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.cta-banner {
+    display: flex;
+    flex-direction: row;
+    background-color: #3882f6;
+    width: 70%;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 10vh;
+    border-radius: 8px;
+}
+
+.cta-info {}
+
+.cta-first {}
+
+.cta-second {}
+
+.btn {
+    border: 3px solid white;
+}
