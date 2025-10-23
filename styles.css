@@ -56,13 +56,13 @@ ul {
 }
 
 .logo {
-    font-size: 32px;
+    font-size: 24px;
     color: #f9faf8;
     font-weight: 900;
 }
 
 .hero-main {
-    font-size: 60px;
+    font-size: 48px;
     color: #f9faf8;
     font-weight: 900;
     width: 50%;
@@ -70,7 +70,7 @@ ul {
 }
 
 .hero-secondary {
-    font-size: 22px;
+    font-size: 18px;
     color: #e5e7eb;
     margin-bottom: 12px;
     width: 60%
